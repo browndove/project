@@ -13,3 +13,5 @@ const nextConfig = {
 };
 
 export default nextConfig;
+
+//pmm-s3-imag.s3.us-east-1.amazonaws.com
